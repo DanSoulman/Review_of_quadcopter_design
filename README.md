@@ -36,7 +36,7 @@ References
 1.	A Beginner's Guide to Multirotor Systems & Flight Proficiency. (n.d.). Retrieved from https://uavcoach.com/how-to-fly-a-quadcopter-guide
 2.	What is a Quadcopter. (n.d.). Retrieved from https://www.droneomega.com/what-is-a-quadcopter/
 3.	How a quadcopter works with propellers and motors. (n.d.). Retrieved from https://www.dronezon.com/learn-about-drones-quadcopters/how-a-quadcopter-works-with-propellers-and-motors-direction-design-explained/
-4.  	How Many Sensors are in a Drone, And What do they Do? (n.d.). Retrieved from https://www.fierceelectronics.com/components/how-many-sensors-are-a-drone-and-what-do-they-do
+4. How Many Sensors are in a Drone, And What do they Do? (n.d.). Retrieved from https://www.fierceelectronics.com/components/how-many-sensors-are-a-drone-and-what-do-they-do
 5. 	Beginners guide to drone autopilots (flight controllers) and how they work. (n.d.). Retrieved from https://www.dronetrest.com/t/beginners-guide-to-drone-autopilots-flight-controllers-and-how-they-work/1380
 6. 	Quadcopters: Sensors. (n.d.). Retrieved from https://hoverbear.org/blog/quadcopters-sensors/
 7.	Understanding Quaternions. (n.d.). Retrieved from http://www.chrobotics.com/library/understanding-quaternions
